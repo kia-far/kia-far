@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![win logo](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <!--
 **kia-far/kia-far** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
